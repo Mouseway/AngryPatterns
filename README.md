@@ -16,4 +16,17 @@ The app has MVC architecture.
 - Strategy
 - Visitor
 
+## How to play
+
+- Move up - Arrow up
+- Move down - Arrow down
+- Shoot - Space
+- Aim up - A
+- Aim down - Y
+- Power up - F
+- Power down - D
+- Shooting strategy - M
+- Shooting mode - N
+- Undo - Z
+
 ![angry-patterns](https://user-images.githubusercontent.com/45421463/195180083-3f46522a-46a7-492b-837a-01219d1b99f3.png)
